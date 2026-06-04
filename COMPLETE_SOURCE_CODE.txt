@@ -1,0 +1,23 @@
+═══════════════════════════════════════════════════════════════════════════════
+           AI-BASED PORTFOLIO & GITHUB ANALYZER
+           Complete Source Code - Ready to Copy & Paste
+═══════════════════════════════════════════════════════════════════════════════
+
+📋 SETUP INSTRUCTIONS:
+
+1. Create project folder:
+   mkdir github-portfolio-analyzer && cd github-portfolio-analyzer
+
+2. Create the folder structure:
+   mkdir -p src/app/components src/app/utils src/styles
+
+3. Copy each file below to its path
+4. Run: npm install
+5. Run: npm run dev
+6. Open: http://localhost:5173 in your browser
+
+═══════════════════════════════════════════════════════════════════════════════
+
+📦 ROOT CONFIGURATION FILES
+═══════════════════════════════════════════════════════════════════════════════
+
